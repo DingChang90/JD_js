@@ -35,8 +35,8 @@ let tuanActiveId = `6S9y4sJUfA2vPQP6TLdVIQ==`;
 const jxOpenUrl = `openjd://virtual?params=%7B%20%22category%22:%20%22jump%22,%20%22des%22:%20%22m%22,%20%22url%22:%20%22https://wqsd.jd.com/pingou/dream_factory/index.html%22%20%7D`;
 let cookiesArr = [], cookie = '', message = '';
 const inviteCodes = [
-  'HV9KDncxpspXYfu8mtloOA==@9zVe9I2YCDioR6g2pYiSWg==@b6zWUPeEWet8oMfIBpXAvA==@mU16f-112mQ3oTkXG76Yow==@VwrPA9NPyQECHA5PmkIiSQ==@QtKS_A8vmuknRMvJ_oiZag==@kSikXpcORjhY9Dcx5UduBw==@7qJjSQOzDSMJ3T4fau2XXg==@4suQ0cWdCJd__NMeQXY4zA==@eJda8Np5SREAz181E5iE8g==',
-  "HV9KDncxpspXYfu8mtloOA==@9zVe9I2YCDioR6g2pYiSWg==@b6zWUPeEWet8oMfIBpXAvA==@mU16f-112mQ3oTkXG76Yow==@VwrPA9NPyQECHA5PmkIiSQ==@QtKS_A8vmuknRMvJ_oiZag==@kSikXpcORjhY9Dcx5UduBw==@7qJjSQOzDSMJ3T4fau2XXg==@4suQ0cWdCJd__NMeQXY4zA==@eJda8Np5SREAz181E5iE8g==",
+  'HV9KDncxpspXYfu8mtloOA==@9zVe9I2YCDioR6g2pYiSWg==@b6zWUPeEWet8oMfIBpXAvA==@mU16f-112mQ3oTkXG76Yow==@VwrPA9NPyQECHA5PmkIiSQ==@QtKS_A8vmuknRMvJ_oiZag==@kSikXpcORjhY9Dcx5UduBw==@7qJjSQOzDSMJ3T4fau2XXg==@4suQ0cWdCJd__NMeQXY4zA==@eJda8Np5SREAz181E5iE8g==@ImNvO-9z6w5Dxb631KMFrA==@5Rv1WJM04dLm52dzqvLYNQ==',
+  "HV9KDncxpspXYfu8mtloOA==@9zVe9I2YCDioR6g2pYiSWg==@b6zWUPeEWet8oMfIBpXAvA==@mU16f-112mQ3oTkXG76Yow==@VwrPA9NPyQECHA5PmkIiSQ==@QtKS_A8vmuknRMvJ_oiZag==@kSikXpcORjhY9Dcx5UduBw==@7qJjSQOzDSMJ3T4fau2XXg==@4suQ0cWdCJd__NMeQXY4zA==@eJda8Np5SREAz181E5iE8g==@ImNvO-9z6w5Dxb631KMFrA==@5Rv1WJM04dLm52dzqvLYNQ==",
 ];
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 $.tuanIds = [];
