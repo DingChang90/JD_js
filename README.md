@@ -99,7 +99,7 @@
 
 - [部署方法](https://github.com/LXK9301/jd_scripts/tree/master/docker)
 
-- [环境变量集合](https://github.com/LXK9301/jd_scripts/blob/master/githubAction.md)
+- [环境变量集合](https://github.com/DingChang90/JD_js/blob/master/githubAction.md)
  
 - 获取京东cookie教程可参考：
   
